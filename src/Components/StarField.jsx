@@ -99,4 +99,6 @@ const canvasStyle = {
     mixBlendMode: "screen",
 };
 
+
+// Thanks Noa for the tips! :)
 export default StarField;
