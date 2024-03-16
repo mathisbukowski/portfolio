@@ -1,11 +1,10 @@
-import InProgress from "./Pages/InProgress.jsx";
+import StarField from "./Components/StarField.jsx";
 
 function App() {
   return (
       <>
-        <InProgress />
+        <StarField />
       </>
-
   )
 }
 
