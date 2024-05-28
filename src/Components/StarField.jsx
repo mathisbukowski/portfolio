@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from "react";
+import { useEffect, useState, useRef } from "react";
 
 const StarField = ({ speed = 0.05, backgroundColor = "black", starColor = [255, 255, 255], starCount = 5000 }) => {
     const canvasRef = useRef(null);
