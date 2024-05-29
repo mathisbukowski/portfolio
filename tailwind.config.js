@@ -8,7 +8,7 @@ export default {
         'skyblue': '#3D6CB9',
         'mint': '#50C878',
         'corail': '#FFA661',
-        'gold': '#FFD700',
+        'gold': '#E9D464',
         'sky-gray': '#D3D3D3',
         'anthracite': '#555555'
       },

@@ -19,7 +19,7 @@ export default function Hero() {
                         </h1>
                         <p className="text-2xl">
                             I&apos;m Mathis, a technology enthusiast and developer. <br />
-                            I&apos;m currently living in Lille (🇫🇷) and studying at Epitech&ensp;
+                            I&apos;m currently living in Lille 🇫🇷 and studying at Epitech&ensp;
                             <span><img src="/logo-epi.png" alt="Epitech" className="inline-block w-5 h-5 align-middle ml-1" /></span>&ensp;!
                         </p>
                         <button
