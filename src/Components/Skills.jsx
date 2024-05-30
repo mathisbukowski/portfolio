@@ -91,7 +91,7 @@ import skills from "../skills.json";
 export default function Skills() {
     return (
         <div className="container mx-auto p-6">
-            <h2 className="text-4xl font-bold mb-6 text-center text-white">Skills</h2>
+            <h2 className="text-4xl font-bold mb-6 text-center text-black">Skills</h2>
             <p className="text-xl mt-2 text-white text-center mb-12">Here are some of the skills I&apos;ve gained with my projects</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {skills.map((skill, index) => (
