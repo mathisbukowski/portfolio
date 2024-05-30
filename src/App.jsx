@@ -1,6 +1,7 @@
 import StarField from "./Components/StarField.jsx";
 import Hero from "./Components/Hero.jsx";
 import Works from "./Components/Works.jsx";
+import Skills from "./Components/Skills.jsx";
 import Footer from "./Components/Footer.jsx";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
           <StarField />
           <Hero />
           <Works />
+          <Skills />
           <Footer />
       </>
   )

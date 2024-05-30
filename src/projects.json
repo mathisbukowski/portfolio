@@ -18,7 +18,7 @@
     {
         "title": "Corewar",
         "description": "The goal of this, is to reproduice a fight between 2 to 4 champions in a memory.",
-        "technologies": ["C", "Git"],
+        "technologies": ["C", "Git", "Github Actions"],
         "link": "https://github.com/mathisbukowski/corewar",
         "logo": "/corewar.jpeg",
         "color": "bg-anthracite"

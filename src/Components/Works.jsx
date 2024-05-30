@@ -34,6 +34,12 @@ const Icon = ({ name }) => {
             return <img src="/bash.svg" alt="Bash" className="w-[30px] h-[30px]" />
         case 'CSFML':
             return <img src="/csfml.svg" alt="CSFML" className="w-[30px] h-[30px]" />
+        case 'Github Actions':
+            return <img src="/actions.svg" alt="Github Actions" className="w-[30px] h-[30px]"/>
+        case 'Postman':
+            return <img src="/postman.svg" alt="Postman" className="w-[30px] h-[30px]"/>
+        case 'Jetbrains':
+            return <img src="/jetbrains.svg" alt="Jetbrains" className="w-[30px] h-[30px]"/>
         default:
             return null;
     }

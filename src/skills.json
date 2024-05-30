@@ -1,0 +1,48 @@
+[
+    {
+        "category": "Languages",
+        "technologies": [
+            { "name": "C", "level": 85 },
+            { "name": "JavaScript", "level": 65 },
+            { "name":  "Bash", "level" :  70}
+        ]
+    },
+    {
+        "category": "Frameworks",
+        "technologies": [
+            { "name": "React", "level": 90 },
+            { "name": "Node.js", "level": 75 },
+            { "name": "TailwindCSS", "level": 75 }
+        ]
+    },
+    {
+        "category": "DevOps",
+        "technologies": [
+            { "name": "Docker", "level": 80 },
+            { "name": "Github Actions", "level": 85 }
+        ]
+    },
+    {
+        "category": "Operating Systems",
+        "technologies": [
+            { "name": "Arch Linux", "level": 70 },
+            { "name": "Debian", "level": 70 },
+            { "name": "Ubuntu", "level":  70}
+        ]
+    },
+    {
+        "category": "Databases & Libraries",
+        "technologies": [
+            { "name": "MySQL", "level": 70 },
+            { "name": "CSFML", "level": 95 }
+        ]
+    },
+    {
+        "category": "Software & Tools",
+        "technologies": [
+            { "name": "JetBrains IDE", "level": 100 },
+            { "name": "Git", "level": 100 },
+            { "name":  "Postman", "level": 100}
+        ]
+    }
+]
