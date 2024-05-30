@@ -97,7 +97,7 @@ export default function Skills() {
                 {skills.map((skill, index) => (
                     <MotionDiv
                         key={index}
-                        className="bg-anthracite p-6 rounded-lg shadow-lg"
+                        className="bg-sky-gray p-6 rounded-lg shadow-lg"
                         whileHover={{scale: 1.05}}
                         whileTap={{scale: 0.95}}
                         initial={{opacity: 0, y: 20}}
