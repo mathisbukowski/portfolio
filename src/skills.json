@@ -2,38 +2,38 @@
     {
         "category": "Languages",
         "technologies": [
-            { "name": "C", "level": 85 },
-            { "name": "JavaScript", "level": 65 },
-            { "name":  "Bash", "level" :  70}
+            { "name": "C", "level": 75 },
+            { "name": "JavaScript", "level": 50 },
+            { "name":  "Bash", "level" :  60}
         ]
     },
     {
         "category": "Frameworks",
         "technologies": [
-            { "name": "React", "level": 90 },
-            { "name": "Node.js", "level": 75 },
-            { "name": "TailwindCSS", "level": 75 }
+            { "name": "React", "level": 80 },
+            { "name": "Node.js", "level": 60 },
+            { "name": "TailwindCSS", "level": 70 }
         ]
     },
     {
         "category": "DevOps",
         "technologies": [
-            { "name": "Docker", "level": 80 },
-            { "name": "Github Actions", "level": 85 }
+            { "name": "Docker", "level": 65 },
+            { "name": "Github Actions", "level": 70 }
         ]
     },
     {
         "category": "Operating Systems",
         "technologies": [
-            { "name": "Arch Linux", "level": 70 },
-            { "name": "Debian", "level": 70 },
-            { "name": "Ubuntu", "level":  70}
+            { "name": "Arch Linux", "level": 60 },
+            { "name": "Debian", "level": 60 },
+            { "name": "Ubuntu", "level":  60}
         ]
     },
     {
         "category": "Databases & Libraries",
         "technologies": [
-            { "name": "MySQL", "level": 70 },
+            { "name": "MySQL", "level": 60 },
             { "name": "CSFML", "level": 95 }
         ]
     },
@@ -41,8 +41,8 @@
         "category": "Software & Tools",
         "technologies": [
             { "name": "JetBrains IDE", "level": 100 },
-            { "name": "Git", "level": 100 },
-            { "name":  "Postman", "level": 100}
+            { "name": "Git", "level": 72 },
+            { "name":  "Postman", "level": 75}
         ]
     }
 ]
