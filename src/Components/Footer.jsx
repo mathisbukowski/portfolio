@@ -1,6 +1,6 @@
 import {
     FaGithubSquare,
-    FaTwitter
+    FaLinkedin
 } from "react-icons/fa";
 
 export default function Footer() {
@@ -14,8 +14,8 @@ export default function Footer() {
                     <a href="https://github.com/mathisbukowski" target={"_blank"}>
                         <FaGithubSquare size={30} className="my-[12px] mx-2 sm:mr-4" color="#FFA661"/>
                     </a>
-                    <a href="https://x.com/mathisbkwk" target={"_blank"}>
-                        <FaTwitter size={30} className="my-[12px] mx-2 sm:mr-4" color="#FFA661"/>
+                    <a href="https://www.linkedin.com/in/mathisbukowski/" target={"_blank"}>
+                        <FaLinkedin size={30} className="my-[12px] mx-2 sm:mr-4" color="#FFA661"/>
                     </a>
                 </div>
             </div>
