@@ -39,7 +39,7 @@ const projects = [
         title: "MyRadar",
         description: "This project has been made to reproduice an air traffic control radar",
         technologies: ["C", "CSFML", "Git"],
-        link: "https://github.com/mathisbukowski/",
+        link: "https://github.com/mathisbukowski/MyRadar",
         logo: "/myradar.jpg",
         color: "bg-mint"
     },
@@ -47,7 +47,7 @@ const projects = [
         title: "EpyTODO",
         description: "This project has been made for discover the backend.",
         technologies: ["JavaScript", "Node.js", "Git", "MySQL"],
-        link: "https://github.com/mathisbukowski/",
+        link: "https://github.com/mathisbukowski/EpyTODO",
         logo: "/backend.jpeg",
         color: "bg-gold"
     }
