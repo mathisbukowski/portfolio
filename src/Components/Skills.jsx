@@ -38,6 +38,8 @@ const Icon = ({ name }) => {
             return <img src="/postman.svg" alt="Postman" className="w-[30px] h-[30px]"/>
         case 'JetBrains IDE':
             return <img src="/jetbrains.svg" alt="JetBrains" className="w-[30px] h-[30px]"/>
+        case 'Go':
+            return <img src="/go.svg" alt="go" className="w-[30px] h-[30px]"/>
         default:
             return null;
     }

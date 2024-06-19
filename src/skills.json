@@ -4,7 +4,8 @@
         "technologies": [
             { "name": "C", "level": 75 },
             { "name": "JavaScript", "level": 50 },
-            { "name":  "Bash", "level" :  60}
+            { "name":  "Bash", "level" :  60},
+            { "name": "Go", "level": 40}
         ]
     },
     {
