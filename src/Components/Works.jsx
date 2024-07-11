@@ -103,7 +103,6 @@ export default function Works() {
             </header>
 
             <section className="p-6">
-                <h2 className="text-3xl font-bold text-center mb-6">Projects</h2>
                 <div className="grid md:grid-cols-2 gap-6">
                     {projects.map((project, index) => (
                         <MotionDiv
